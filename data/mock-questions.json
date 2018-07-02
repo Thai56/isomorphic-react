@@ -1,0 +1,754 @@
+{
+  "items": [
+    {
+      "tags": [
+        "sql"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9146889,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10156085530754169/picture?type=large",
+        "display_name": "Eran Cohen",
+        "link": "https://stackoverflow.com/users/9146889/eran-cohen"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 3,
+      "score": -1,
+      "last_activity_date": 1530229181,
+      "creation_date": 1530228019,
+      "last_edit_date": 1530228139,
+      "question_id": 51092359,
+      "link": "https://stackoverflow.com/questions/51092359/find-unique-users-grouped-by-month-sql",
+      "title": "Find unique users grouped by month - sql"
+    },
+    {
+      "tags": [
+        "azure",
+        "apache-spark",
+        "yarn",
+        "hdinsight",
+        "livy"
+      ],
+      "owner": {
+        "reputation": 792,
+        "user_id": 162215,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/7dc5ff9a08f955d809327d1f51cebe97?s=128&d=identicon&r=PG",
+        "display_name": "Iain",
+        "link": "https://stackoverflow.com/users/162215/iain"
+      },
+      "is_answered": false,
+      "view_count": 1,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229177,
+      "creation_date": 1530229177,
+      "question_id": 51092471,
+      "link": "https://stackoverflow.com/questions/51092471/how-to-make-a-hdinsight-spark-cluster-shrink-when-idle",
+      "title": "How to make a HDInsight/Spark cluster shrink when idle?"
+    },
+    {
+      "tags": [
+        "neo4j",
+        "cypher"
+      ],
+      "owner": {
+        "reputation": 627,
+        "user_id": 677163,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/a1d8465997bf40a21eca3975f984fc72?s=128&d=identicon&r=PG",
+        "display_name": "philippe",
+        "link": "https://stackoverflow.com/users/677163/philippe"
+      },
+      "is_answered": true,
+      "view_count": 11,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1530229163,
+      "creation_date": 1530221022,
+      "last_edit_date": 1530228059,
+      "question_id": 51091433,
+      "link": "https://stackoverflow.com/questions/51091433/neo4j-does-not-follow-relationships-until-end",
+      "title": "neo4j: does not follow relationships until end"
+    },
+    {
+      "tags": [
+        "python",
+        "performance",
+        "list-comprehension"
+      ],
+      "owner": {
+        "reputation": 56,
+        "user_id": 6431554,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/04985bd4e5a59b3eaf6b3ca468dfcd82?s=128&d=identicon&r=PG&f=1",
+        "display_name": "mysticalstick",
+        "link": "https://stackoverflow.com/users/6431554/mysticalstick"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1530229163,
+      "creation_date": 1530228764,
+      "question_id": 51092428,
+      "link": "https://stackoverflow.com/questions/51092428/counting-number-of-each-substring-in-array-python",
+      "title": "counting number of each substring in array python"
+    },
+    {
+      "tags": [
+        "ios",
+        "swift",
+        "protocol-buffers"
+      ],
+      "owner": {
+        "reputation": 799,
+        "user_id": 1133557,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/f4496e9f857df3cf20b99d2a615d218f?s=128&d=identicon&r=PG",
+        "display_name": "mindbomb",
+        "link": "https://stackoverflow.com/users/1133557/mindbomb"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229155,
+      "creation_date": 1530229155,
+      "question_id": 51092469,
+      "link": "https://stackoverflow.com/questions/51092469/protobuf-compiler-for-swift-omits-option-from-protobuf-message",
+      "title": "Protobuf compiler for Swift omits option from protobuf message"
+    },
+    {
+      "tags": [
+        "java",
+        "class",
+        "instance",
+        "definition"
+      ],
+      "owner": {
+        "reputation": 647,
+        "user_id": 545353,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/o0daF.png?s=128&g=1",
+        "display_name": "Pavel Molchanov",
+        "link": "https://stackoverflow.com/users/545353/pavel-molchanov"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229140,
+      "creation_date": 1530229140,
+      "question_id": 51092468,
+      "link": "https://stackoverflow.com/questions/51092468/why-can-this-class-be-instantiated",
+      "title": "Why can this class be instantiated?"
+    },
+    {
+      "tags": [
+        "excel"
+      ],
+      "owner": {
+        "reputation": 1977,
+        "user_id": 201657,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://i.stack.imgur.com/Tsj9N.jpg?s=128&g=1",
+        "display_name": "jamiet",
+        "link": "https://stackoverflow.com/users/201657/jamiet"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229127,
+      "creation_date": 1530229127,
+      "question_id": 51092467,
+      "link": "https://stackoverflow.com/questions/51092467/sumifs-less-than-criteria-in-a-table",
+      "title": "SUMIFS less than criteria in a table"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "button",
+        "radio"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9161004,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-nR0E5h0J2xU/AAAAAAAAAAI/AAAAAAAACbU/o0mhByQ5ZEM/photo.jpg?sz=128",
+        "display_name": "Guja Markozashvili",
+        "link": "https://stackoverflow.com/users/9161004/guja-markozashvili"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1530229125,
+      "creation_date": 1530224207,
+      "last_edit_date": 1530229125,
+      "question_id": 51091894,
+      "link": "https://stackoverflow.com/questions/51091894/html-cant-stack-radios-buttons-under-each-other",
+      "title": "html cant stack radios buttons under each other"
+    },
+    {
+      "tags": [
+        "windows",
+        "winapi",
+        "visual-c++",
+        "mfc"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9675014,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-ym6z6q4Yjno/AAAAAAAAAAI/AAAAAAAAAOw/or1UkwZF4aU/photo.jpg?sz=128",
+        "display_name": "cuberoot",
+        "link": "https://stackoverflow.com/users/9675014/cuberoot"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1530229124,
+      "creation_date": 1530201111,
+      "question_id": 51087045,
+      "link": "https://stackoverflow.com/questions/51087045/mfc-gui-freezes-but-keeps-working",
+      "title": "MFC: GUI freezes, but keeps working"
+    },
+    {
+      "tags": [
+        "crystal-reports-2008"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10006973,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b7d2cd49075e07bbf0ce783984c7906e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "C. Bec",
+        "link": "https://stackoverflow.com/users/10006973/c-bec"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229122,
+      "creation_date": 1530206388,
+      "last_edit_date": 1530229122,
+      "question_id": 51088429,
+      "link": "https://stackoverflow.com/questions/51088429/crystal-reports-2008-subtotaling-a-formula-field",
+      "title": "Crystal Reports 2008 subtotaling a formula field"
+    },
+    {
+      "tags": [
+        "vue.js",
+        "css-transitions"
+      ],
+      "owner": {
+        "reputation": 1339,
+        "user_id": 1904386,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/93bc220a4479a7d02cb61fcfe84be9e6?s=128&d=identicon&r=PG",
+        "display_name": "trogne",
+        "link": "https://stackoverflow.com/users/1904386/trogne"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229121,
+      "creation_date": 1530229121,
+      "question_id": 51092465,
+      "link": "https://stackoverflow.com/questions/51092465/dynamic-transition-name-only-works-for-transition-group",
+      "title": "dynamic transition name only works for transition-group"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "matplotlib"
+      ],
+      "owner": {
+        "reputation": 115,
+        "user_id": 3842845,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.stack.imgur.com/51bIs.jpg?s=128&g=1",
+        "display_name": "King Java",
+        "link": "https://stackoverflow.com/users/3842845/king-java"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229106,
+      "creation_date": 1530229106,
+      "question_id": 51092464,
+      "link": "https://stackoverflow.com/questions/51092464/how-to-display-values-on-bar-graph",
+      "title": "How to display values on bar graph"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "bootstrap-4",
+        "navbar"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 9808665,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=128",
+        "display_name": "codernoob5",
+        "link": "https://stackoverflow.com/users/9808665/codernoob5"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1530229098,
+      "creation_date": 1530228295,
+      "question_id": 51092377,
+      "link": "https://stackoverflow.com/questions/51092377/bootstrap-hamberger-navbar-wont-work",
+      "title": "bootstrap hamberger navbar wont work"
+    },
+    {
+      "tags": [
+        "listview",
+        "uwp-xaml"
+      ],
+      "owner": {
+        "reputation": 378,
+        "user_id": 2499147,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/9cde9997a5ef513b141c5247991987f4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "TekGiant",
+        "link": "https://stackoverflow.com/users/2499147/tekgiant"
+      },
+      "is_answered": true,
+      "view_count": 1543,
+      "accepted_answer_id": 38151627,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1530229097,
+      "creation_date": 1467333703,
+      "last_edit_date": 1530229097,
+      "question_id": 38135361,
+      "link": "https://stackoverflow.com/questions/38135361/uwpxaml-listview-child-item-not-using-full-width",
+      "title": "[UWP][XAML] ListView child item not using full width"
+    },
+    {
+      "tags": [
+        "reactjs"
+      ],
+      "owner": {
+        "reputation": 56,
+        "user_id": 7013006,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/6eba5162e004cb0bff00ac745bbfb792?s=128&d=identicon&r=PG&f=1",
+        "display_name": "born2gamble",
+        "link": "https://stackoverflow.com/users/7013006/born2gamble"
+      },
+      "is_answered": true,
+      "view_count": 52,
+      "accepted_answer_id": 49909318,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1530229078,
+      "creation_date": 1524085254,
+      "last_edit_date": 1524093292,
+      "question_id": 49908936,
+      "link": "https://stackoverflow.com/questions/49908936/get-current-state-of-child-component-through-prop-passed-by-parent-reactjs",
+      "title": "Get current state of child component through prop passed by Parent - Reactjs"
+    },
+    {
+      "tags": [
+        "java",
+        "unit-testing",
+        "intellij-idea",
+        "tags",
+        "junit5"
+      ],
+      "owner": {
+        "reputation": 89,
+        "user_id": 127532,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/999226b562e630646cfd9a08362e6764?s=128&d=identicon&r=PG",
+        "display_name": "Dieter",
+        "link": "https://stackoverflow.com/users/127532/dieter"
+      },
+      "is_answered": true,
+      "view_count": 244,
+      "accepted_answer_id": 44303158,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1530229075,
+      "creation_date": 1496262382,
+      "last_edit_date": 1529549019,
+      "question_id": 44294074,
+      "link": "https://stackoverflow.com/questions/44294074/how-to-specify-which-tag-should-be-used-for-junit-in-intellij-idea",
+      "title": "How to specify which @Tag should be used for JUnit in IntelliJ IDEA"
+    },
+    {
+      "tags": [
+        "python",
+        "unicode"
+      ],
+      "owner": {
+        "reputation": 112,
+        "user_id": 6114952,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/d43f20b1c9e4d0ceed55e7e04f28e02e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Peter Chao",
+        "link": "https://stackoverflow.com/users/6114952/peter-chao"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229070,
+      "creation_date": 1530229070,
+      "question_id": 51092462,
+      "link": "https://stackoverflow.com/questions/51092462/how-to-translate-english-to-french-using-python",
+      "title": "How to translate english to French using python"
+    },
+    {
+      "tags": [
+        "javascript",
+        "php",
+        "mysql"
+      ],
+      "owner": {
+        "reputation": 24,
+        "user_id": 5824421,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/74aeeab2a79bf576ce3defd63fdfc82b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "AAaaAA",
+        "link": "https://stackoverflow.com/users/5824421/aaaaaa"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229058,
+      "creation_date": 1530229058,
+      "question_id": 51092461,
+      "link": "https://stackoverflow.com/questions/51092461/how-to-disable-checkbox-after-due-date-has-passed",
+      "title": "how to disable checkbox after due date has passed"
+    },
+    {
+      "tags": [
+        "bash"
+      ],
+      "owner": {
+        "reputation": 807,
+        "user_id": 5889131,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/uISs4.jpg?s=128&g=1",
+        "display_name": "jeremysprofile",
+        "link": "https://stackoverflow.com/users/5889131/jeremysprofile"
+      },
+      "is_answered": true,
+      "view_count": 18,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1530229050,
+      "creation_date": 1530226722,
+      "question_id": 51092207,
+      "link": "https://stackoverflow.com/questions/51092207/how-to-sudo-bash-keywords-like",
+      "title": "How to sudo bash keywords like [["
+    },
+    {
+      "tags": [
+        "dart",
+        "dart-2"
+      ],
+      "owner": {
+        "reputation": 2961,
+        "user_id": 2625090,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/PKELS.png?s=128&g=1",
+        "display_name": "arielnmz",
+        "link": "https://stackoverflow.com/users/2625090/arielnmz"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1530229041,
+      "creation_date": 1530225214,
+      "last_edit_date": 1530225552,
+      "question_id": 51092028,
+      "link": "https://stackoverflow.com/questions/51092028/how-to-typedef-a-generic-function",
+      "title": "How to typedef a generic function?"
+    },
+    {
+      "tags": [
+        "google-cloud-messaging",
+        "reverse-engineering"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8439945,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/69dec4b8622f10147dfcb7677717b02a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "fachka06",
+        "link": "https://stackoverflow.com/users/8439945/fachka06"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229038,
+      "creation_date": 1530214539,
+      "last_edit_date": 1530229038,
+      "question_id": 51090148,
+      "link": "https://stackoverflow.com/questions/51090148/is-it-possible-to-disable-google-cloud-messaging-by-reverse-engineering",
+      "title": "Is it possible to disable google cloud messaging by reverse engineering"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-studio",
+        "event-listener"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 8212874,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/32f363394f87793576963b26d859661d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Hussein",
+        "link": "https://stackoverflow.com/users/8212874/hussein"
+      },
+      "is_answered": false,
+      "view_count": 29,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1530229037,
+      "creation_date": 1530123298,
+      "question_id": 51069084,
+      "link": "https://stackoverflow.com/questions/51069084/create-my-own-eventlistener-in-android-studio-that-triggers-when-the-function-re",
+      "title": "Create my own EventListener in Android Studio that triggers when the function returns a value"
+    },
+    {
+      "tags": [
+        "javascript",
+        "netsuite",
+        "suitescript"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10008199,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2ff55ebf5a8683249ddf595a9c7c1ae9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "J. Doe",
+        "link": "https://stackoverflow.com/users/10008199/j-doe"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229032,
+      "creation_date": 1530229032,
+      "question_id": 51092459,
+      "link": "https://stackoverflow.com/questions/51092459/suitescript-1-0-custom-button-to-copy-sublist-of-unsubmitted-cash-sale-to-invoi",
+      "title": "SuiteScript 1.0: Custom button to copy sublist of unsubmitted cash sale to invoice"
+    },
+    {
+      "tags": [
+        "react-native"
+      ],
+      "owner": {
+        "reputation": 1555,
+        "user_id": 2507197,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/82f28ecfe4a9584211cf9fcfa67b705e?s=128&d=identicon&r=PG",
+        "display_name": "Alter",
+        "link": "https://stackoverflow.com/users/2507197/alter"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229032,
+      "creation_date": 1530229032,
+      "question_id": 51092458,
+      "link": "https://stackoverflow.com/questions/51092458/react-native-invalid-prop-children",
+      "title": "React Native - invalid prop children"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "algorithm",
+        "data-structures",
+        "words"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 2821154,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/100001123995065/picture?type=large",
+        "display_name": "Omar Hashmi",
+        "link": "https://stackoverflow.com/users/2821154/omar-hashmi"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1530229025,
+      "creation_date": 1530227136,
+      "last_edit_date": 1530229025,
+      "question_id": 51092258,
+      "link": "https://stackoverflow.com/questions/51092258/generate-words-of-varying-length-give-n-number-of-characters",
+      "title": "Generate words of varying length give n number of characters"
+    },
+    {
+      "tags": [
+        "python",
+        "windows",
+        "console",
+        "vt100"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 9802724,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/3MrkI.jpg?s=128&g=1",
+        "display_name": "Grub4K",
+        "link": "https://stackoverflow.com/users/9802724/grub4k"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 0,
+      "score": 2,
+      "last_activity_date": 1530229018,
+      "creation_date": 1530222716,
+      "last_edit_date": 1530229018,
+      "question_id": 51091680,
+      "link": "https://stackoverflow.com/questions/51091680/activating-vt100-via-os-system",
+      "title": "Activating VT100 via os.system(&#39;&#39;)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "object",
+        "promise"
+      ],
+      "owner": {
+        "reputation": 14,
+        "user_id": 4424216,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f950454ceeda32c501cfe4386ec4d30d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "igotBAWS",
+        "link": "https://stackoverflow.com/users/4424216/igotbaws"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "closed_date": 1530229057,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530229001,
+      "creation_date": 1530228309,
+      "last_edit_date": 1530229001,
+      "question_id": 51092381,
+      "link": "https://stackoverflow.com/questions/51092381/can-t-access-promise-object",
+      "closed_reason": "duplicate",
+      "title": "Can’t access Promise object"
+    },
+    {
+      "tags": [
+        "c#",
+        "generics",
+        "asp.net-core",
+        "asp.net-core-2.0"
+      ],
+      "owner": {
+        "reputation": 16,
+        "user_id": 8419527,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/12077f64309f1e8ac5f8a0ac4afa8bbb?s=128&d=identicon&r=PG&f=1",
+        "display_name": "GETools",
+        "link": "https://stackoverflow.com/users/8419527/getools"
+      },
+      "is_answered": false,
+      "view_count": 19,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1530228999,
+      "creation_date": 1530212684,
+      "last_edit_date": 1530221653,
+      "question_id": 51089747,
+      "link": "https://stackoverflow.com/questions/51089747/c-net-core-utilize-generic-property-in-base-controller-class-utilizing-dbsett",
+      "title": "C# .Net Core Utilize generic property in base controller class utilizing DbSet&lt;TEntity&gt;.FromSql"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "facebook",
+        "android-studio",
+        "facebook-graph-api"
+      ],
+      "owner": {
+        "reputation": 4,
+        "user_id": 8012758,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-7ixzF6WagfQ/AAAAAAAAAAI/AAAAAAAAG6Q/sNpfEYu5r0c/photo.jpg?sz=128",
+        "display_name": "Rishi Raj",
+        "link": "https://stackoverflow.com/users/8012758/rishi-raj"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1530228992,
+      "creation_date": 1530228992,
+      "question_id": 51092457,
+      "link": "https://stackoverflow.com/questions/51092457/how-to-get-user-gender-and-birthday-from-facebook-in-android",
+      "title": "How to get user Gender and birthday from facebook in android"
+    },
+    {
+      "tags": [
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10002677,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/608115c5004fc97d195bd6b8d7d4603f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Monisha",
+        "link": "https://stackoverflow.com/users/10002677/monisha"
+      },
+      "is_answered": false,
+      "view_count": 5,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1530228986,
+      "creation_date": 1530226954,
+      "question_id": 51092233,
+      "link": "https://stackoverflow.com/questions/51092233/use-method-within-class-to-define-a-global-variable",
+      "title": "Use method within class to define a global variable"
+    }
+      ],
+      "has_more": true,
+      "quota_max": 300,
+      "quota_remaining": 299
+}
